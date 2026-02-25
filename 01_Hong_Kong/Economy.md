@@ -41,4 +41,4 @@
 - **Added By:** LI Jiawei ([LI Jiawei](https://github.com/LiJiaWei-Ivy))
 - **Stories in Action:** 
 最新人工中位數│月薪呢個數高過一半打工仔！最新各行業職級人工
-([News link]([https://www.hk01.com/article/1011531?utm_source=01articlecopy&utm_medium=referral](https://www.hk01.com/article/60314753?utm_source=01articlecopy&utm_medium=referral) ))
+([News link](https://www.hk01.com/article/1011531?utm_source=01articlecopy&utm_medium=referral](https://www.hk01.com/article/60314753?utm_source=01articlecopy&utm_medium=referral))
